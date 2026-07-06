@@ -1,0 +1,13 @@
+{
+  "name": "@clear402/provider-x402",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@clear402/shared": "workspace:*"
+  },
+  "scripts": {
+    "dev": "tsx watch src/server.ts",
+    "build": "tsup src/server.ts --format esm --platform node --target node25 --outDir dist --clean --sourcemap",
+    "typecheck": "tsc -p tsconfig.json --noEmit"
+  }
+}

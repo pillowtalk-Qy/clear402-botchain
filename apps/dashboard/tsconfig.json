@@ -1,0 +1,12 @@
+{
+  "extends": "../../tsconfig.web.json",
+  "compilerOptions": {
+    "allowJs": false,
+    "noEmit": true,
+    "incremental": true,
+    "jsx": "preserve",
+    "baseUrl": "."
+  },
+  "include": ["next-env.d.ts", "app/**/*.ts", "app/**/*.tsx"],
+  "exclude": ["node_modules"]
+}

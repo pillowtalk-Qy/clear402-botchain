@@ -1,0 +1,17 @@
+{
+  "project": "clear402-botchain",
+  "contract": "ServiceEscrow",
+  "network": "BOT Chain Testnet",
+  "chainId": 968,
+  "evidenceMode": "live",
+  "action": "read",
+  "contractAddress": "0x67c8fbf5adc3ba683a7b3667e6a1a5e4374ba3b8",
+  "paymentContextHash": "0x252740b13a1c550438476ba3951577a8f80f8ad7f108fea9c6b6cc5a3535da51",
+  "escrow": {
+    "payer": "0xf57D44090ff1e263Df574A2Ea4741a07d61a974e",
+    "provider": "0xf57D44090ff1e263Df574A2Ea4741a07d61a974e",
+    "amount": "1000000000000",
+    "state": 2
+  },
+  "recordedAt": "2026-07-06T02:16:18.284Z"
+}

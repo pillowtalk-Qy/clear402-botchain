@@ -1,0 +1,32 @@
+{
+  "name": "clear402-botchain",
+  "private": true,
+  "type": "module",
+  "packageManager": "pnpm@10.33.2",
+  "engines": {
+    "node": ">=22.5.0",
+    "pnpm": ">=10.33.2"
+  },
+  "scripts": {
+    "dev": "pnpm -r --parallel --stream --if-present --filter \"./apps/*\" --filter \"./services/*\" dev",
+    "attack:all": "node scripts/run_attack_lab.ts",
+    "lint": "pnpm -r --if-present typecheck",
+    "test": "vitest run --config vitest.config.ts && pnpm --filter @clear402/runtime test",
+    "test:e2e": "playwright test && pnpm --filter @clear402/runtime test guard && pnpm run attack:all",
+    "build": "pnpm -r --if-present build",
+    "db:init": "pnpm --filter @clear402/runtime db:init",
+    "contracts:compile": "node contracts/scripts/compile-service-escrow.mjs",
+    "botchain:deploy:escrow": "node contracts/scripts/deploy-botchain-service-escrow.mjs",
+    "botchain:escrow": "node contracts/scripts/interact-botchain-service-escrow.mjs"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.57.0",
+    "@types/node": "25.9.3",
+    "tsup": "8.5.1",
+    "tsx": "4.22.4",
+    "typescript": "5.9.3",
+    "solc": "0.8.35",
+    "viem": "2.54.3",
+    "vitest": "4.1.8"
+  }
+}

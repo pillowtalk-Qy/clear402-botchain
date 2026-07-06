@@ -1,0 +1,14 @@
+{
+  "project": "clear402-botchain",
+  "contract": "ServiceEscrow",
+  "network": "BOT Chain Testnet",
+  "chainId": 968,
+  "evidenceMode": "live",
+  "deployer": "0xf57D44090ff1e263Df574A2Ea4741a07d61a974e",
+  "txHash": "0xcbf383441001307dd9bf843281038899715d8f2788ccfb3e725ddc8559dcb8aa",
+  "contractAddress": "0x67c8fbf5adc3ba683a7b3667e6a1a5e4374ba3b8",
+  "blockNumber": "15297205",
+  "status": "success",
+  "explorer": "https://scan.bohr.life/tx/0xcbf383441001307dd9bf843281038899715d8f2788ccfb3e725ddc8559dcb8aa",
+  "recordedAt": "2026-07-06T02:13:19.625Z"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "@clear402/runtime",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@cobo/agentic-wallet": "^0.1.7",
+    "@clear402/shared": "workspace:*"
+  },
+  "scripts": {
+    "dev": "tsx watch src/server.ts",
+    "build": "tsup src/server.ts --format esm --platform node --target node25 --outDir dist --clean --sourcemap",
+    "typecheck": "tsc -p tsconfig.json --noEmit",
+    "test": "node scripts/test.mjs",
+    "db:init": "tsx src/db/init-cli.ts"
+  }
+}
