@@ -10,7 +10,7 @@ Track: AI Agent
 
 @BOTChain_ai
 
-GitHub: TODO_REPO_URL
+GitHub: https://github.com/pillowtalk-Qy/clear402-botchain
 Demo: TODO_DEMO_VIDEO_URL
 Explorer: https://scan.bohr.life/tx/0x746f4dea40d4a6f249e5e834fd13db0ba7e89c2891c95c74d202af53ff4892e0
 
