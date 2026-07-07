@@ -31,7 +31,7 @@ https://github.com/pillowtalk-Qy/clear402-botchain
 Demo video:
 
 ```text
-https://github.com/pillowtalk-Qy/clear402-botchain/releases/download/demo-video-v1/clear402-botchain-demo.mp4
+https://github.com/pillowtalk-Qy/clear402-botchain/releases/download/demo-video-v1/clear402-botchain-demo-voiceover.mp4
 ```
 
 X post:

@@ -11,7 +11,7 @@ Track: AI Agent
 @BOTChain_ai
 
 GitHub: https://github.com/pillowtalk-Qy/clear402-botchain
-Demo: https://github.com/pillowtalk-Qy/clear402-botchain/releases/download/demo-video-v1/clear402-botchain-demo.mp4
+Demo: https://github.com/pillowtalk-Qy/clear402-botchain/releases/download/demo-video-v1/clear402-botchain-demo-voiceover.mp4
 Explorer: https://scan.bohr.life/tx/0x746f4dea40d4a6f249e5e834fd13db0ba7e89c2891c95c74d202af53ff4892e0
 
 #BOTChain #AIAgent #x402 #EVM
