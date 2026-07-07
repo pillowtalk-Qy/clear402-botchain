@@ -2,6 +2,25 @@
 
 Target length: 3 to 5 minutes.
 
+## Codex-Generated Captioned Video
+
+Codex can generate a captioned, no-voice demo video automatically:
+
+```bash
+cd /Users/qy/Documents/clear402-botchain
+pnpm demo:record
+```
+
+Output:
+
+```text
+outputs/demo-video/clear402-botchain-demo.mp4
+```
+
+The generated video is intentionally ignored by git. Upload it to the place you
+want to use for submission, then paste the final video URL into the form and X
+post.
+
 ## Before Recording
 
 Run the app:
@@ -119,4 +138,3 @@ Upload the video, then update:
 - `submission/botchain/x-post.md`
 
 with the final demo video URL.
-

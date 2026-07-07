@@ -15,6 +15,7 @@
     "test:e2e": "playwright test && pnpm --filter @clear402/runtime test guard && pnpm run attack:all",
     "build": "pnpm -r --if-present build",
     "db:init": "pnpm --filter @clear402/runtime db:init",
+    "demo:record": "tsx scripts/record_demo_video.ts",
     "contracts:compile": "node contracts/scripts/compile-service-escrow.mjs",
     "botchain:deploy:escrow": "node contracts/scripts/deploy-botchain-service-escrow.mjs",
     "botchain:escrow": "node contracts/scripts/interact-botchain-service-escrow.mjs"
