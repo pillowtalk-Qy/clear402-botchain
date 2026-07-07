@@ -31,7 +31,7 @@ https://github.com/pillowtalk-Qy/clear402-botchain
 Demo video:
 
 ```text
-TODO_AFTER_VIDEO_UPLOAD
+https://github.com/pillowtalk-Qy/clear402-botchain/releases/download/demo-video-v1/clear402-botchain-demo.mp4
 ```
 
 X post:
@@ -122,4 +122,3 @@ Next steps are to deploy a hosted public demo, add a production-grade settlement
 ```text
 The quick-start path is straightforward for EVM developers. The most useful improvements for agent-payment builders would be a canonical testnet contract verification guide, more faucet reliability/status visibility, and example templates for common AI-agent payment patterns such as escrow, metered API calls, and signed receipts.
 ```
-
