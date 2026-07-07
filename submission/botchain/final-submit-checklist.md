@@ -10,7 +10,7 @@
 - [x] Record deployment tx hash.
 - [x] Record interaction tx hash.
 - [x] Record explorer links.
-- [ ] Publish an X post tagging `@BOTChain_ai`.
+- [x] Publish an X post tagging `@BOTChain_ai`.
 - [ ] Fill the project submission form.
 
 ## Form Fields To Prepare
@@ -27,7 +27,7 @@
 - [ ] GitHub repo URL
 - [ ] Live demo URL or demo video URL
 - [ ] Demo screenshot/image URL
-- [ ] X post URL
+- [x] X post URL
 - [ ] Contract address or tx hash
 - [ ] BOT Chain integration: `Smart Contract Deployment` and `DApp Integration`
 - [ ] Explanation of how BOT Chain is used

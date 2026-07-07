@@ -1,5 +1,7 @@
 # X Post Draft
 
+Published URL: https://x.com/Pillowtalk_Qy/status/2074424738022350900
+
 Clear402 for BOT Chain is an AI-agent payment guard for x402-style paid APIs.
 
 It binds every agent payment to a PaymentContext, runs guard checks before

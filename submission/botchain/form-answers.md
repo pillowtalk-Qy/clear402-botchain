@@ -37,7 +37,7 @@ https://github.com/pillowtalk-Qy/clear402-botchain/releases/download/demo-video-
 X post:
 
 ```text
-TODO_AFTER_X_POST
+https://x.com/Pillowtalk_Qy/status/2074424738022350900
 ```
 
 ## Short Intro
